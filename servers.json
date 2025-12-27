@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sandstone",
+    "name": "SANDSTONE",
+    "ip": "95.213.255.89",
+    "port": 27215,
+    "mode": "Casual",
+    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/sandstone.jpg",
+    "tags": ["🌕"],
+    "priority": 1
+  },
+  {
+    "id": "mirage",
+    "name": "MIRAGE",
+    "ip": "77.223.111.56",
+    "port": 27215,
+    "mode": "Casual",
+    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/mirage.jpg",
+    "tags": ["🐉"],
+    "priority": 2
+  },
+  {
+    "id": "maniac",
+    "name": "MANIAC",
+    "ip": "95.213.255.89",
+    "port": 27315,
+    "mode": "Casual",
+    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/maniac.jpg",
+    "tags": ["💀"],
+    "priority": 3
+  },
+  {
+    "id": "awp-lego",
+    "name": "AWP LEGO",
+    "ip": "170.168.115.15",
+    "port": 27015,
+    "mode": "AWP Only",
+    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/awp-lego.jpg",
+    "tags": ["🧱", "AWP"],
+    "priority": 4
+  },
+  {
+    "id": "aim-usp",
+    "name": "AIM USP",
+    "ip": "45.95.31.79",
+    "port": 27215,
+    "mode": "Aim",
+    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/aim-usp.jpg",
+    "tags": ["🎯", "USP"],
+    "priority": 5
+  },
+  {
+    "id": "random-cheats",
+    "name": "RANDOM CHEATS",
+    "ip": "170.168.115.14",
+    "port": 27015,
+    "mode": "Fun",
+    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/random-cheats.jpg",
+    "tags": ["🎲", "Cheats"],
+    "priority": 6
+  }
+]
