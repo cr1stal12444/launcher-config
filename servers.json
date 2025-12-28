@@ -5,7 +5,7 @@
     "ip": "95.213.255.89",
     "port": 27215,
     "mode": "Casual",
-    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/sandstone.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cr1stal12444/launcher-config/main/assets/sandstone.webp",
     "tags": ["🌕"],
     "priority": 1
   },
@@ -15,7 +15,7 @@
     "ip": "77.223.111.56",
     "port": 27215,
     "mode": "Casual",
-    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/mirage.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cr1stal12444/launcher-config/main/assets/mirage.webp",
     "tags": ["🐉"],
     "priority": 2
   },
@@ -25,7 +25,7 @@
     "ip": "95.213.255.89",
     "port": 27315,
     "mode": "Casual",
-    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/maniac.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cr1stal12444/launcher-config/main/assets/maniac.webp",
     "tags": ["💀"],
     "priority": 3
   },
@@ -35,7 +35,7 @@
     "ip": "170.168.115.15",
     "port": 27015,
     "mode": "AWP Only",
-    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/awp-lego.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cr1stal12444/launcher-config/main/assets/awp-lego.webp",
     "tags": ["🧱", "AWP"],
     "priority": 4
   },
@@ -45,7 +45,7 @@
     "ip": "45.95.31.79",
     "port": 27215,
     "mode": "Aim",
-    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/aim-usp.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cr1stal12444/launcher-config/main/assets/aim-usp.webp",
     "tags": ["🎯", "USP"],
     "priority": 5
   },
@@ -55,7 +55,7 @@
     "ip": "170.168.115.14",
     "port": 27015,
     "mode": "Fun",
-    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/random-cheats.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cr1stal12444/launcher-config/main/assets/random-cheats.webp",
     "tags": ["🎲", "Cheats"],
     "priority": 6
   },
@@ -65,7 +65,7 @@
     "ip": "87.228.59.103",
     "port": 27215,
     "mode": "Casual",
-    "imageUrl": "https://raw.githubusercontent.com/top2fun/launcher-config/main/assets/test.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/cr1stal12444/launcher-config/main/assets/sandstone.webp",
     "tags": ["🧪", "Test"],
     "priority": 7
   }
