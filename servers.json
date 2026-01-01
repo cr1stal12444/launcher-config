@@ -59,14 +59,4 @@
     "tags": ["🎲", "Cheats"],
     "priority": 6
   },
-  {
-    "id": "test",
-    "name": "TEST SERVER",
-    "ip": "87.228.59.103",
-    "port": 27215,
-    "mode": "Casual",
-    "imageUrl": "https://raw.githubusercontent.com/cr1stal12444/launcher-config/main/assets/sandstone.webp",
-    "tags": ["🧪", "Test"],
-    "priority": 7
-  }
 ]
